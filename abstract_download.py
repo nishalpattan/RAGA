@@ -54,10 +54,10 @@ for pmid in abstract_list:
                     y=y.split(",")
                     if len(y) > 1:
                         for semtype in y:
-                            df.loc[index]=pmid,i.cui,i.preferred_name,semtype,i.score
+                            df.loc[index]=pmid,i.cui,semtype,i.score,i.preferred_name
                             index +=1
                     elif len(y)==1:
-                        df.loc[index]=pmid,i.cui,i.preferred_name,y[0],i.score
+                        df.loc[index]=pmid,i.cui,y[0],i.score,i.preferred_name
                         index +=1
                     else:
                         raise "Check the code"

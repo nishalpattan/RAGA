@@ -1,0 +1,389 @@
+PMID	CUI	sem_group	score	Preferred_name
+24970923	C0298973	aapp	25.54	Ataxia Telangiectasia Mutated Proteins
+24970923	C0298973	enzy	25.54	Ataxia Telangiectasia Mutated Proteins
+24970923	C0014239	celc	24.11	Endoplasmic Reticulum
+24970923	C0056889	aapp	22.66	Cystic Fibrosis Transmembrane Conductance Regulator
+24970923	C0056889	bacs	22.66	Cystic Fibrosis Transmembrane Conductance Regulator
+24970923	C0008203	inch	16.18	Chlorides
+24970923	C0035280	menp	16.04	Retention (Psychology)
+24970923	C0031843	phsf	13.03	physiological aspects
+24970923	C0014139	celf	11.49	Endocytosis
+24970923	C0596019	elii	7.49	Chloride Ion
+24970923	C2984285	ftcn	5.18	Endocytosis Pathway
+24970923	C1413365	gngm	3.73	CFTR gene
+24970923	C0205161	qlco	3.57	Abnormal
+24970923	C2699333	inpr	3.57	Abnormal Reference Range
+24970923	C0439799	spco	3.57	Channel
+24970923	C1706095	cnce	3.57	Channel Object
+24970923	C0542341	ftcn	3.57	Function
+24970923	C0700205	clas	3.57	Function Axis
+24970923	C1705273	inpr	3.57	Mathematical Operator
+24970923	C2347472	qnco	3.57	Percent of Abnormal Cells
+24970923	C3840880	fndg	3.57	Traffic
+24970923	C0231175	ftcn	3.57	failed
+24970923	C2825142	fndg	3.55	Experimental Result
+24970923	C1274040	ftcn	3.55	Result
+24970923	C1546471	idcn	3.55	What subject filter - Result
+24970923	C0333117	ftcn	3.43	Retention of content
+24970923	C1753315	celf	3.43	cellular entity retention
+24970923	C0056889	aapp	45.40	Cystic Fibrosis Transmembrane Conductance Regulator
+24970923	C0056889	bacs	45.40	Cystic Fibrosis Transmembrane Conductance Regulator
+24970923	C0040363	geoa	17.80	Togo
+24970923	C0041260	aapp	17.80	Tryptophanase
+24970923	C0041260	enzy	17.80	Tryptophanase
+24970923	C0031843	phsf	14.64	physiological aspects
+24970923	C1524059	ftcn	13.14	mechanism of action qualifier
+24970923	C0005528	celf	11.49	Biological Transport
+24970923	C0031330	bmod	9.99	Pharmacology
+24970923	C0376649	inpr	8.34	Addresses (publication format)
+24970923	C1413365	gngm	7.33	CFTR gene
+24970923	C1442065	spco	5.18	Address
+24970923	C0596019	elii	5.18	Chloride Ion
+24970923	C0542341	ftcn	5.18	Function
+24970923	C0700205	clas	5.18	Function Axis
+24970923	C1705273	inpr	5.18	Mathematical Operator
+24970923	C3495449	medd	5.18	Mobility aid
+24970923	C1883351	qlco	5.18	To
+24970923	C0750591	idcn	5.18	consider
+24970923	C0599896	celf	5.18	trafficking
+24970923	C1317949	mnob	5.18	transport (device)
+24970923	C3539655	inpr	3.68	CDISC Findings Class
+24970923	C0220806	chem	3.68	Chemicals
+24970923	C2926606	clna	3.68	Procedure findings:Finding:Point in time:^Patient:Narrative
+24970923	C2607943	ftcn	3.68	findings aspects
+24970923	C0243067	ftcn	3.61	defects aspect
+24970923	C0332185	tmco	3.50	Recent
+24970923	C0700321	qnco	3.50	Small
+24970923	C2986495	qlco	3.50	Synergistic
+24970923	C1947967	ftcn	3.48	Call (Instruction)
+24970923	C0679006	menp	3.48	Decision
+24970923	C0053225	orch	24.11	Benzoic Acid
+24970923	C0053225	phsu	24.11	Benzoic Acid
+24970923	C0056889	aapp	22.36	Cystic Fibrosis Transmembrane Conductance Regulator
+24970923	C0056889	bacs	22.36	Cystic Fibrosis Transmembrane Conductance Regulator
+24970923	C0018873	cell	16.26	HeLa Cells
+24970923	C3816745	fndg	15.79	1+
+24970923	C2827734	qnco	15.79	1+ Score
+24970923	C2981698	clas	15.79	1+ Score, WHO
+24970923	C1321596	orch	14.64	Miglustat
+24970923	C1321596	phsu	14.64	Miglustat
+24970923	C0672708	orch	14.64	Vorinostat
+24970923	C0672708	phsu	14.64	Vorinostat
+24970923	C0053139	orch	14.64	benzamide
+24970923	C0031843	phsf	14.64	physiological aspects
+24970923	C0020314	orch	13.22	Hydroxamic Acids
+24970923	C0076543	orch	13.08	threitol
+24970923	C3838680	fndg	11.32	3+ Answer to Question
+24970923	C2827736	qnco	11.32	3+ Score
+24970923	C2981702	clas	11.32	3+ Score, WHO
+24970923	C0439086	qnco	11.32	<3 (qualifier value)
+24970923	C3838679	fndg	10.90	4+ Answer to question
+24970923	C0740116	qnco	7.36	+2
+24970923	C3833492	fndg	7.36	2+
+24970923	C2827735	qnco	7.36	2+ Score
+24970923	C2981700	clas	7.36	2+ Score, WHO
+24970923	C0728893	qnco	7.29	+5
+24970923	C0439084	qnco	7.29	>5
+24970923	C1161334	orch	5.18	Benzoicum acidum, benzoic acid, Homeopathic preparation
+24970923	C1161334	phsu	5.18	Benzoicum acidum, benzoic acid, Homeopathic preparation
+24970923	C0542341	ftcn	5.18	Function
+24970923	C0700205	clas	5.18	Function Axis
+24970923	C1705273	inpr	5.18	Mathematical Operator
+24970923	C1524063	ftcn	5.18	Use of
+24970923	C3252847	orch	5.18	VX 809
+24970923	C3252847	phsu	5.18	VX 809
+24970923	C0557651	mnob	3.98	Room of building - Study
+24970923	C2603343	resa	3.98	Study
+24970923	C0369718	aapp	3.68	N not otherwise specified Antibody
+24970923	C0369718	imft	3.68	N not otherwise specified Antibody
+24970923	C0441922	inpr	3.68	N+ (tumor staging)
+24970923	C1254042	phsf	3.57	Anatomical maturation
+24970923	C0678723	orgf	3.57	Biologic Development
+24970923	C0870861	phpr	3.57	Human maturation
+24970923	C0205195	qlco	3.56	Combined
+24970923	C3811910	fndg	3.56	combination - answer to question
+24970923	C1947911	phob	3.56	combination of objects
+24970923	C1413365	gngm	3.44	CFTR gene
+24970923	C0205451	qnco	3.43	Five
+24970923	C0672708	orch	39.84	Vorinostat
+24970923	C0672708	phsu	39.84	Vorinostat
+24970923	C1321596	orch	39.39	Miglustat
+24970923	C1321596	phsu	39.39	Miglustat
+24970923	C0061202	bacs	25.76	Genistein
+24970923	C0061202	orch	25.76	Genistein
+24970923	C0061202	phsu	25.76	Genistein
+24970923	C0056889	aapp	22.43	Cystic Fibrosis Transmembrane Conductance Regulator
+24970923	C0056889	bacs	22.43	Cystic Fibrosis Transmembrane Conductance Regulator
+24970923	C3252847	orch	18.41	VX 809
+24970923	C3252847	phsu	18.41	VX 809
+24970923	C0034869	inpr	16.17	Records
+24970923	C0917964	orch	16.12	Colforsin
+24970923	C0917964	phsu	16.12	Colforsin
+24970923	C0242625	resa	13.18	Patch-Clamp Techniques
+24970923	C1524063	ftcn	5.18	Use of
+24970923	C0178587	qnco	3.68	density
+24970923	C1269647	cell	3.65	Entire cell
+24970923	C1704632	fndg	3.59	Disease Response
+24970923	C2911692	menp	3.59	Response (communication)
+24970923	C1706817	inpr	3.59	Response (statement)
+24970923	C0871261	orga	3.59	Response process
+24970923	C3853788	qnco	3.55	Record - QueryRequestLimit
+24970923	C3540027	phsu	3.54	Adrenergic and dopaminergic agents combinations
+24970923	C3539975	phsu	3.54	Aluminium antacid compound combinations
+24970923	C3539963	orch	3.54	Amide local anesthetic combinations
+24970923	C3539963	phsu	3.54	Amide local anesthetic combinations
+24970923	C3539979	phsu	3.54	Antiinfective irrigating solution combinations
+24970923	C3540722	antb	3.54	Beta-lactamase sensitive penicillin combinations
+24970923	C3540722	orch	3.54	Beta-lactamase sensitive penicillin combinations
+24970923	C3539977	phsu	3.54	Calcium antacid compound combinations
+24970923	C3540720	phsu	3.54	Caries prophylactic agent combinations
+24970923	C3539972	phsu	3.54	Combination solutions for parenteral nutrition
+24970923	C0453882	mnob	3.54	Combinations (Undergarment)
+24970923	C3539968	phsu	3.54	Enema combinations
+24970923	C3540026	aapp	3.54	Hepatitis vaccine combinations
+24970923	C3540026	imft	3.54	Hepatitis vaccine combinations
+24970923	C3540026	phsu	3.54	Hepatitis vaccine combinations
+24970923	C0442805	ftcn	3.54	Increase
+24970923	C0205217	qnco	3.54	Increased
+24970923	C3540723	phsu	3.54	Insulins and analogs for injection, fast-acting combinations
+24970923	C3539974	phsu	3.54	Insulins and analogs for injection, intermediate-acting combinations
+24970923	C3539967	phsu	3.54	Insulins and analogs for injection, intermediate-acting combined with fast-acting- combinations
+24970923	C3540719	orch	3.54	Intermediate-acting sulfonamide combinations
+24970923	C3540719	phsu	3.54	Intermediate-acting sulfonamide combinations
+24970923	C3539965	phsu	3.54	Local hemostatic combinations
+24970923	C3539959	orch	3.54	Long-acting sulfonamide combinations
+24970923	C3539959	phsu	3.54	Long-acting sulfonamide combinations
+24970923	C3539956	phsu	3.54	Magnesium antacid compound combinations
+24970923	C3854036	phsu	3.54	Other anti-dementia drug combinations in ATC
+24970923	C3539973	phsu	3.54	Other antifungal combinations for topical use in ATC
+24970923	C3539960	phsu	3.54	Other intestinal adsorbent combinations in ATC
+24970923	C3540028	phsu	3.54	Other irrigating solution combinations in ATC
+24970923	C3539976	antb	3.54	Penicillins with extended spectrum combinations
+24970923	C3539976	orch	3.54	Penicillins with extended spectrum combinations
+24970923	C3539961	phsu	3.54	Platelet aggregation inhibitor combinations excl. heparin
+24970923	C3540740	phsu	3.54	Potassium supplement combinations
+24970923	C3854307	qlco	3.54	Presence (property)
+24970923	C0150312	qnco	3.54	Present
+24970923	C0392148	topp	3.54	Providing presence (regime/therapy)
+24970923	C3539182	phsu	3.54	Salt solution combinations
+24970923	C3539181	orch	3.54	Short-acting sulfonamide combinations
+24970923	C3539181	phsu	3.54	Short-acting sulfonamide combinations
+24970923	C3539969	aapp	3.54	Specific immunoglobulin combinations
+24970923	C3539969	imft	3.54	Specific immunoglobulin combinations
+24970923	C3539969	phsu	3.54	Specific immunoglobulin combinations
+24970923	C3539970	phsu	3.54	combination drugs used in erectile dysfunction
+24970923	C3539978	phsu	3.54	expectorant combinations excluding combinations with cough suppressants
+24970923	C3540724	phsu	3.54	expectorant combinations, excl. combinations with cough suppressants
+24970923	C3540031	aapp	3.54	gonadotropin combinations
+24970923	C3540031	horm	3.54	gonadotropin combinations
+24970923	C3540031	phsu	3.54	gonadotropin combinations
+24970923	C3539966	phsu	3.54	insulins and analogs for injection combinations, long-acting
+24970923	C3539964	phsu	3.54	local opthalmologic anesthetic combinations
+24970923	C3539955	phsu	3.54	lung surfactant combinations
+24970923	C3539957	phsu	3.54	opium alkaloids and derivative combination cough suppressants
+24970923	C3540030	phsu	3.54	other cough suppressant combinations in ATC
+24970923	C3540721	phsu	3.54	other nasal preparation combinations in ATC
+24970923	C3539971	phsu	3.54	otologic analgesic and anesthetic combinations
+24970923	C3539954	phsu	3.54	topical antibiotic combinations
+24970923	C3539962	phsu	3.54	vitamin D and analog combinations
+24970923	C1719822	inpr	3.51	Follow
+24970923	C0332283	tmco	3.51	Followed by
+24970923	C1413365	gngm	3.50	CFTR gene
+24970923	C0521116	tmco	3.50	Current (present time)
+24970923	C1705970	npop	3.50	Electrical Current
+24970923	C0056889	aapp	44.96	Cystic Fibrosis Transmembrane Conductance Regulator
+24970923	C0056889	bacs	44.96	Cystic Fibrosis Transmembrane Conductance Regulator
+24970923	C0033621	aapp	12.88	Protein C
+24970923	C0033621	bacs	12.88	Protein C
+24970923	C0033621	phsu	12.88	Protein C
+24970923	C1413365	gngm	6.89	CFTR gene
+24970923	C3540027	phsu	5.18	Adrenergic and dopaminergic agents combinations
+24970923	C3539975	phsu	5.18	Aluminium antacid compound combinations
+24970923	C3539963	orch	5.18	Amide local anesthetic combinations
+24970923	C3539963	phsu	5.18	Amide local anesthetic combinations
+24970923	C3539979	phsu	5.18	Antiinfective irrigating solution combinations
+24970923	C3540722	antb	5.18	Beta-lactamase sensitive penicillin combinations
+24970923	C3540722	orch	5.18	Beta-lactamase sensitive penicillin combinations
+24970923	C3539977	phsu	5.18	Calcium antacid compound combinations
+24970923	C3540720	phsu	5.18	Caries prophylactic agent combinations
+24970923	C3539972	phsu	5.18	Combination solutions for parenteral nutrition
+24970923	C0453882	mnob	5.18	Combinations (Undergarment)
+24970923	C3539968	phsu	5.18	Enema combinations
+24970923	C3540026	aapp	5.18	Hepatitis vaccine combinations
+24970923	C3540026	imft	5.18	Hepatitis vaccine combinations
+24970923	C3540026	phsu	5.18	Hepatitis vaccine combinations
+24970923	C3540723	phsu	5.18	Insulins and analogs for injection, fast-acting combinations
+24970923	C3539974	phsu	5.18	Insulins and analogs for injection, intermediate-acting combinations
+24970923	C3539967	phsu	5.18	Insulins and analogs for injection, intermediate-acting combined with fast-acting- combinations
+24970923	C3540719	orch	5.18	Intermediate-acting sulfonamide combinations
+24970923	C3540719	phsu	5.18	Intermediate-acting sulfonamide combinations
+24970923	C3539965	phsu	5.18	Local hemostatic combinations
+24970923	C3539959	orch	5.18	Long-acting sulfonamide combinations
+24970923	C3539959	phsu	5.18	Long-acting sulfonamide combinations
+24970923	C3539956	phsu	5.18	Magnesium antacid compound combinations
+24970923	C3854036	phsu	5.18	Other anti-dementia drug combinations in ATC
+24970923	C3539973	phsu	5.18	Other antifungal combinations for topical use in ATC
+24970923	C3539960	phsu	5.18	Other intestinal adsorbent combinations in ATC
+24970923	C3540028	phsu	5.18	Other irrigating solution combinations in ATC
+24970923	C3539976	antb	5.18	Penicillins with extended spectrum combinations
+24970923	C3539976	orch	5.18	Penicillins with extended spectrum combinations
+24970923	C3539961	phsu	5.18	Platelet aggregation inhibitor combinations excl. heparin
+24970923	C3540740	phsu	5.18	Potassium supplement combinations
+24970923	C3539182	phsu	5.18	Salt solution combinations
+24970923	C3539181	orch	5.18	Short-acting sulfonamide combinations
+24970923	C3539181	phsu	5.18	Short-acting sulfonamide combinations
+24970923	C3539969	aapp	5.18	Specific immunoglobulin combinations
+24970923	C3539969	imft	5.18	Specific immunoglobulin combinations
+24970923	C3539969	phsu	5.18	Specific immunoglobulin combinations
+24970923	C3539970	phsu	5.18	combination drugs used in erectile dysfunction
+24970923	C3539978	phsu	5.18	expectorant combinations excluding combinations with cough suppressants
+24970923	C3540724	phsu	5.18	expectorant combinations, excl. combinations with cough suppressants
+24970923	C3540031	aapp	5.18	gonadotropin combinations
+24970923	C3540031	horm	5.18	gonadotropin combinations
+24970923	C3540031	phsu	5.18	gonadotropin combinations
+24970923	C3539966	phsu	5.18	insulins and analogs for injection combinations, long-acting
+24970923	C3539964	phsu	5.18	local opthalmologic anesthetic combinations
+24970923	C3539955	phsu	5.18	lung surfactant combinations
+24970923	C3539957	phsu	5.18	opium alkaloids and derivative combination cough suppressants
+24970923	C3540030	phsu	5.18	other cough suppressant combinations in ATC
+24970923	C3540721	phsu	5.18	other nasal preparation combinations in ATC
+24970923	C3539971	phsu	5.18	otologic analgesic and anesthetic combinations
+24970923	C3539954	phsu	5.18	topical antibiotic combinations
+24970923	C3539962	phsu	5.18	vitamin D and analog combinations
+24970923	C1561536	idcn	3.56	*Activity (kind of quantity)
+24970923	C0205177	ftcn	3.56	Active
+24970923	C0441655	acty	3.56	Activities
+24970923	C3668946	fndg	3.56	Activity (animal life circumstance)
+24970923	C1705242	qlco	3.56	Different
+24970923	C0443199	qlco	3.56	Differential quality
+24970923	C1280500	qlco	3.56	Effect
+24970923	C2348382	qlco	3.56	Effect, Appearance
+24970923	C4049939	inpr	3.56	FDA Establishment Activity Terminology
+24970923	C0439167	qnco	3.56	Percent Activity
+24970923	C4049938	lbpr	3.56	Physical Activity Measurement
+24970923	C0700364	qlco	3.54	Appearance
+24970923	C0233426	orga	3.54	Personal appearance
+24970923	C0439645	spco	3.42	Band form
+24970923	C0175723	medd	3.42	Bands
+24970923	C1521913	celc	3.42	Chromosome band
+24970923	C0205286	tmco	3.42	Mature
+24970923	C1418943	gngm	3.42	PROC gene
+24970923	C1168438	lbpr	3.42	Protein C antigen measurement
+24970923	C1949480	aapp	3.42	protein C, human
+24970923	C1949480	bacs	3.42	protein C, human
+24970923	C1949480	phsu	3.42	protein C, human
+24970923	C0056889	aapp	22.47	Cystic Fibrosis Transmembrane Conductance Regulator
+24970923	C0056889	bacs	22.47	Cystic Fibrosis Transmembrane Conductance Regulator
+24970923	C0034869	inpr	16.59	Records
+24970923	C0000936	clna	9.86	Visual Accommodation
+24970923	C2348236	qlco	5.18	Specimen at Room Temperature
+24970923	C3167821	clna	5.18	Temperature.ambient:Temperature:Point in time:Room:Quantitative
+24970923	C3853788	qnco	3.98	Record - QueryRequestLimit
+24970923	C0456079	clas	3.57	Disease classification level
+24970923	C1547707	geoa	3.57	Floor - story of building
+24970923	C2946261	phsu	3.57	Level
+24970923	C0441889	qlco	3.57	Levels (qualifier value)
+24970923	C0205250	qlco	3.56	High
+24970923	C2981153	fndg	3.55	Finding related to focusing
+24970923	C1413365	gngm	3.54	CFTR gene
+24970923	C1444783	fndg	3.54	Instability
+24970923	C3252847	orch	3.44	VX 809
+24970923	C3252847	phsu	3.44	VX 809
+24970923	C1947976	ftcn	3.44	Correction (change)
+24970923	C1705565	inpr	3.44	Correction Report
+24970923	C0678420	food	3.42	Cocktail
+24970923	C0021966	inch	17.80	Iodides
+24970923	C0012634	dsyn	9.83	Disease
+24970923	C0221138	aapp	5.18	Blood group antibody I
+24970923	C0221138	imft	5.18	Blood group antibody I
+24970923	C4049713	inpr	5.18	Borg Category-Ratio 10 Perceived Exertion Score 10
+24970923	C0205198	qlco	5.18	Compound
+24970923	C1706082	chem	5.18	Compound (substance)
+24970923	C0205289	qlco	5.18	Maximal (qualifier value)
+24970923	C0806909	qnco	5.18	Maximum
+24970923	C2348205	qlco	3.59	Similarity
+24970923	C1524063	ftcn	3.58	Use of
+24970923	C0456079	clas	3.56	Disease classification level
+24970923	C1547707	geoa	3.56	Floor - story of building
+24970923	C2946261	phsu	3.56	Level
+24970923	C0441889	qlco	3.56	Levels (qualifier value)
+24970923	C1301820	ftcn	3.55	Obtain
+24970923	C2698651	qlco	3.55	Optimum
+24970923	C0277564	dsyn	3.52	Acquired disease
+24970923	C1834645	fndg	3.52	Acquired disorder
+24970923	C0348080	qlco	3.52	Condition
+24970923	C3864998	clna	3.52	Condition:Find:Pt:^Patient:Nom
+24970923	C1705253	cnce	3.52	Logical Condition
+24970923	C3252847	orch	3.43	VX 809
+24970923	C3252847	phsu	3.43	VX 809
+24970923	C0542341	ftcn	3.43	Function
+24970923	C0205245	ftcn	3.43	Functional
+24970923	C2700217	cnce	3.43	Functional Relationship
+24970923	C0439227	tmco	3.42	Hour
+24970923	C1442770	tmco	3.44	24 Hours
+24970923	C0439584	tmco	3.44	24 hour time frame
+24970923	C3252847	orch	3.44	VX 809
+24970923	C3252847	phsu	3.44	VX 809
+24970923	C0456696	tmco	3.44	per 24 hours
+24970923	C0917964	orch	32.99	Colforsin
+24970923	C0917964	phsu	32.99	Colforsin
+24970923	C0056889	aapp	22.36	Cystic Fibrosis Transmembrane Conductance Regulator
+24970923	C0056889	bacs	22.36	Cystic Fibrosis Transmembrane Conductance Regulator
+24970923	C0393003	orch	13.09	potassium oxonate
+24970923	C0393003	phsu	13.09	potassium oxonate
+24970923	C0754515	aapp	12.92	TERT protein, human
+24970923	C0754515	enzy	12.92	TERT protein, human
+24970923	C3838679	fndg	7.11	4+ Answer to question
+24970923	C0007634	cell	5.18	Cells
+24970923	C3282337	cell	5.18	Cells [Chemical/Ingredient]
+24970923	C1707455	acty	5.18	Comparison
+24970923	C2741958	orch	3.75	VX-770
+24970923	C0369718	aapp	3.68	N not otherwise specified Antibody
+24970923	C0369718	imft	3.68	N not otherwise specified Antibody
+24970923	C0441922	inpr	3.68	N+ (tumor staging)
+24970923	C3252847	orch	3.61	VX 809
+24970923	C3252847	phsu	3.61	VX 809
+24970923	C0205202	qlco	3.56	Corrected
+24970923	C1948023	npop	3.56	Stimulation (motivation)
+24970923	C1292856	topp	3.56	Stimulation procedure
+24970923	C0450367	qnco	3.51	4/5
+24970923	C3541881	idcn	3.46	Device Identifiers Domain
+24970923	C3538902	gngm	3.46	SLC4A1 wt Allele
+24970923	C1367342	gngm	3.46	TERT gene
+24970923	C1705316	gngm	3.46	TERT wt Allele
+24970923	C1413365	gngm	3.43	CFTR gene
+24970923	C0056889	aapp	45.32	Cystic Fibrosis Transmembrane Conductance Regulator
+24970923	C0056889	bacs	45.32	Cystic Fibrosis Transmembrane Conductance Regulator
+24970923	C0039476	qnco	19.21	Temperature
+24970923	C0040363	geoa	17.80	Togo
+24970923	C0041260	aapp	17.80	Tryptophanase
+24970923	C0041260	enzy	17.80	Tryptophanase
+24970923	C0005903	orga	16.05	Body Temperature
+24970923	C3658324	ocdi	12.88	Polypharmacology
+24970923	C1413365	gngm	7.24	CFTR gene
+24970923	C0175566	spco	5.18	Open
+24970923	C1547282	anim	5.18	Show
+24970923	C1883351	qlco	5.18	To
+24970923	C2825142	fndg	3.98	Experimental Result
+24970923	C1274040	ftcn	3.98	Result
+24970923	C1546471	idcn	3.98	What subject filter - Result
+24970923	C1705535	idcn	3.98	suggestion
+24970923	C3640044	cnce	3.56	Cardiac Lead Function Indicator
+24970923	C0205195	qlco	3.56	Combined
+24970923	C1280500	qlco	3.56	Effect
+24970923	C2348382	qlco	3.56	Effect, Appearance
+24970923	C3811910	fndg	3.56	combination - answer to question
+24970923	C1947911	phob	3.56	combination of objects
+24970923	C1947976	ftcn	3.55	Correction (change)
+24970923	C1705565	inpr	3.55	Correction Report
+24970923	C0456079	clas	3.55	Disease classification level
+24970923	C1547707	geoa	3.55	Floor - story of building
+24970923	C2946261	phsu	3.55	Level
+24970923	C0441889	qlco	3.55	Levels (qualifier value)
+24970923	C0332272	qlco	3.54	Better
+24970923	C3898777	qlco	3.51	Important
+24970923	C0678723	orgf	3.42	Biologic Development
+24970923	C1527148	ftcn	3.42	Development
+24970923	C0205314	qlco	3.42	New
+24970923	C2986495	qlco	3.42	Synergistic
+24970923	C0243107	phsf	3.42	development aspects
