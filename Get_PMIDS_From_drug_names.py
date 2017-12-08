@@ -13,13 +13,12 @@ from datetime import  date
 import xml.etree.ElementTree as ET
 import time
 import sys
-reload(sys)
-sys.setdefaultencoding('utf8')
+#sys.setdefaultencoding('utf8')
 from AbstractUtils import AbstractUtils
 gs = AbstractUtils()
 Abstract_data = pd.DataFrame(columns=["name","pmid","abstract"])
-df_approved_drugs=pd.read_excel("/home/nishal/RAGA/ApprovedDrugs-DrugBank.xlsx")
-Approved_drugs=tuple(df_approved_drugs['Name'])
+df_approved_drugs=pd.read_excel("C:\\Users\\nisha\\RAGA\\RxNAv_output\\Unique_drugs_RxNav_3470.xlsx")
+Approved_drugs=tuple(df_approved_drugs['UMLSName_RxNavigator'])
 pmids=gs.get_pmids_from_names(Approved_drugs)
 count=[]
 #Save to db and csv file
@@ -37,8 +36,8 @@ df=df.rename(columns={'index':'drug_name'})
 for i in range(len(df)):
     count.append(len(df.loc[i]['drug_name_to_pmid'].split()))
 df=df.assign(count=count)
-df.to_csv("/home/nishal/RAGA/MetaMap/RAGA/"+filename_csv, sep='\t') #saving dataframe to .csv file
-connection = sqlite3.connect("/home/nishal/RAGA/MetaMap/RAGA/"+filename_db)  #establishing connection to database
+df.to_csv("C:\\Users\\nisha\\RAGA\\"+filename_csv, sep='|') #saving dataframe to .csv file
+connection = sqlite3.connect("C:\\Users\\nisha\\RAGA\\"+filename_db)  #establishing connection to database
 cursor = connection.cursor()
 df.to_sql("cui_approved_drug_to_pmid",connection,if_exists="replace",index=False)
 #set_of_cuis = set(list_of_cuis) #this removes duplicates
@@ -48,12 +47,12 @@ connection.close()
 x=df[0:1001]
 y=df[1001:2001]
 z=df[2001:]
-x.to_csv("/home/nishal/RAGA/MetaMap/RAGA/First_1000_Approved_drugs.csv",sep="\t")
-y.to_csv("/home/nishal/RAGA/MetaMap/RAGA/Second_1000_Approved_drugs.csv",sep="\t")
-z.to_csv("/home/nishal/RAGA/MetaMap/RAGA/Third_1000_Approved_drugs.csv",sep="\t")
-conn_x=sqlite3.connect("/home/nishal/RAGA/MetaMap/RAGA/First_1000_Approved_drugs.db")
-conn_y=sqlite3.connect("/home/nishal/RAGA/MetaMap/RAGA/Second_1000_Approved_drugs.db")
-conn_z=sqlite3.connect("/home/nishal/RAGA/MetaMap/RAGA/Third_1000_Approved_drugs.db")
+x.to_csv("C:\\Users\\nisha\\RAGA\\First_1000_Approved_drugs.csv",sep="|")
+y.to_csv("C:\\Users\\nisha\\RAGA\\Second_1000_Approved_drugs.csv",sep="|")
+z.to_csv("C:\\Users\\nisha\\RAGA\\Third_1000_Approved_drugs.csv",sep="|")
+conn_x=sqlite3.connect("C:\\Users\\nisha\\RAGA\\First_1000_Approved_drugs.db")
+conn_y=sqlite3.connect("C:\\Users\\nisha\\RAGA\\Second_1000_Approved_drugs.db")
+conn_z=sqlite3.connect("C:\\Users\\nisha\\RAGA\\Third_1000_Approved_drugs.db")
 
 x.to_sql("First_1000_approved_drugs",conn_x,if_exists="replace")
 y.to_sql("Second_1000_approved_drugs",conn_y,if_exists="replace")

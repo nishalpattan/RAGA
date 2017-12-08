@@ -11,23 +11,24 @@ import requests
 import xml.etree.ElementTree as ET
 import time
 import sys
-reload(sys)
-sys.setdefaultencoding('utf8')
+#reload(sys)
+#sys.setdefaultencoding('utf8')
 
 fetch = PubMedFetcher()
 class AbstractUtils():
     def __init__(self,Email="pattannl@mail.uc.edu",Tool="nishal_eutils"):
         self.Email = Email
         self.Tool=Tool
-    def get_pmids_from_names(self,list_of_names,max_pmids=1500):
+    def get_pmids_from_names(self,list_of_names,max_pmids=1000000):
         self.max_pmids=max_pmids
         """ 
             This method returns query_name to pubmed ids in a dictionary format
         """
         name_to_pmids = {}
         for name in list_of_names:
+            print(name)
             try:
-                pmids = fetch.pmids_for_query(name, retmax=self.max_pmids)
+                pmids = fetch.pmids_for_query(name, retmax=self.max_pmids,since=2007,until=2017)
             except:
                 time.sleep(5)
                 continue
@@ -44,7 +45,7 @@ class AbstractUtils():
                         #print name1
                         #pmids = fetch.pmids_for_query(name1, retmax=self.max_pmids)
                         if name1 != "" and name1 != " " :
-                            pmids = fetch.pmids_for_query(name1, retmax=self.max_pmids)
+                            pmids = fetch.pmids_for_query(name1, retmax=self.max_pmids,since=2007,until=2017)
                         else:
                             pmids=[] #as the drug name with /pd has no articles
                     name_to_pmids[name]=" ".join(pmids)
@@ -52,7 +53,7 @@ class AbstractUtils():
                     name_to_pmids[name]=" ".join(pmids)
                     continue
         return name_to_pmids
-    def get_pmids_from_names_with_pd_filter(self,list_of_names,max_pmids=1000):
+    def get_pmids_from_names_with_pd_filter(self,list_of_names,max_pmids=1000000):
         self.max_pmids=max_pmids
         """ 
             This method returns query_name to pubmed ids in a dictionary format
@@ -60,7 +61,7 @@ class AbstractUtils():
         name_to_pmids = {}
         for name in list_of_names:
             try:
-                pmids = fetch.pmids_for_query(name+"/pd",retmax=self.max_pmids)
+                pmids = fetch.pmids_for_query(name+"/pd",retmax=self.max_pmids,since=2007,until=2017)
             except:
                 time.sleep(5)
                 continue
@@ -77,7 +78,7 @@ class AbstractUtils():
                         #print name1
                         #pmids = fetch.pmids_for_query(name1, retmax=self.max_pmids)
                         if name1 != "" and name1 != " " :
-                            pmids = fetch.pmids_for_query(name1+"/pd", retmax=self.max_pmids)
+                            pmids = fetch.pmids_for_query(name1+"/pd", retmax=self.max_pmids,since=2007,until=2017)
                         else:
                             pmids=[] #as the drug name with /pd has no articles
                     name_to_pmids[name]=" ".join(pmids)
@@ -102,7 +103,7 @@ class AbstractUtils():
                         Abstract_data.loc[index]=names,pmid,abstract
                     index+=1
                 except:
-                    print "Connection Refused"
+                    print("Connection Refused")
                     time.sleep(5)
                     continue
         return Abstract_data
